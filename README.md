@@ -24,7 +24,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+REST API Created with Nest Js, Implemented basic validation,Api documentation with swagger
 
 ## Installation
 
